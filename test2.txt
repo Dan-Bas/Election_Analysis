@@ -1,2 +1,0 @@
-# Notes on git
-Making changes to file

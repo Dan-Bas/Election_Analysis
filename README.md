@@ -27,7 +27,7 @@ The analysis of election show that:
   
 ![Pic2](Resources/Pic2.png)  
 
-    -	The candidates where: 
+  -	The candidates where: 
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
@@ -47,5 +47,5 @@ For example, it can be used in other state with the list/file provided where all
 
 Other instance where the script and analysis can be used is nationwide, presenting the comparing results of the election determining State by State and verifying the results for the whole nation.  
 
-As is shown in the graph below, we can change the codes highlighted and use the correspond file depending on the State/County or Nation/States to deliver the proper analysis.
+As is shown in the graph below, we can modify the codes highlighted and use the correspond file depending on the State/County or Nation/States to deliver the proper analysis.
 ![Pic4](Resources/Pic4.png)
